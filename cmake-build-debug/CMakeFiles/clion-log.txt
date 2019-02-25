@@ -1,0 +1,4 @@
+/home/biggkahuna98/Programs/CLion-2018.3/clion-2018.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/biggkahuna98/CLionProjects/BlockchainInterface
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/biggkahuna98/CLionProjects/BlockchainInterface/cmake-build-debug

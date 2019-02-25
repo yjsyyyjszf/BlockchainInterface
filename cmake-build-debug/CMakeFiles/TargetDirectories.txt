@@ -1,0 +1,3 @@
+/home/biggkahuna98/CLionProjects/BlockchainInterface/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/biggkahuna98/CLionProjects/BlockchainInterface/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/biggkahuna98/CLionProjects/BlockchainInterface/cmake-build-debug/CMakeFiles/BlockchainInterface.dir

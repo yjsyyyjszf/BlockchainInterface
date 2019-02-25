@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/biggkahuna98/CLionProjects/BlockchainInterface/main.cpp
+iostream
+-
+string
+-
+stdlib.h
+-
+stdio.h
+-
+thread
+-
+
